@@ -2,7 +2,6 @@
 title: "멜트다운 취약점을 이용한 인공신경망 추출 공격"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-12-31
 venue: 'Korea Institute of Information Security and Cryptology (KIISC)'
 ---
