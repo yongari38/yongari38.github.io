@@ -2,7 +2,6 @@
 title: "Neural Network Stealing via Meltdown"
 collection: publications
 permalink: /publication/paper2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-01-13
 venue: '2021 International Conference on Information Networking (ICOIN)'
 ---
