@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hoyong Jeong" # "Your Name / Site Title"
+title                    : "Hoyong Jeong"
 title_separator          : "-"
 name                     : &name "Hoyong Jeong"
 description              : &description "personal description"
@@ -83,18 +83,18 @@ author:
   name             : "Hoyong Jeong"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Seoul, Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=1vfshtsAAAAJ"
+  email            : "yongari38@naver.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100004527634195"
   foursquare       :
   github           : "yongari38"
   google_plus      :
@@ -106,10 +106,10 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  stackoverflow    : "https://stackoverflow.com/users/9027541/hoyong"
+  steam            : "https://steamcommunity.com/profiles/76561198063366032/"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
