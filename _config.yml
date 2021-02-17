@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hoyong Jeong"
 title_separator          : "-"
 name                     : &name "Hoyong Jeong"
-description              : &description "personal description"
+description              : &description "Junior Computer Security Researcher"
 url                      : https://yongari38.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yongari38/yongari38.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hoyong Jeong"
   avatar           : "facebookprofile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Junior computer security researcger<br><br>Undergraduate research intern at <a style='color: black;' href='http://isslab.korea.ac.kr/'>ISS lab, Korea University</a>"
   location         : "Seoul, Korea"
-  employer         : "Research Intern at ISS lab, Korea University"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1vfshtsAAAAJ"
   email            : "yongari38@naver.com"
