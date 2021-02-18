@@ -7,11 +7,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research Experience"
-    url: /experience/
+  #- title: "Research Experience"
+  #  url: /experience/
     
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
     
   - title: "CV"
     url: /files/cv.pdf
