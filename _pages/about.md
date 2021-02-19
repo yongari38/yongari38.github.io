@@ -43,18 +43,25 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 
 ---
 
-<hr style="border:2px solid blue"> </hr>
+<hr style="border:4px black"> </hr>
+<hr style="border:4px solid black"> </hr>
+<hr style="border:5px black"> </hr>
+
 
 # Projects & Accomplishments
 
-	
+	The abbreviation CSS stands for "Cascading Style Sheets".
 
-**Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_<br>
+*[CSS]: Cascading Style Sheets
+
+**Undergraduate Research Program (12th CCP)**  _(2020.04 – 2021.02)_<br>
+*[CCP]: Creative Challenger Program
 - _Description_: 
 - _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks
 - _Output_: [[video]](https://)
 
-**Undergraduate Research Program (11th Creative Challenger Program)**  _(2019.04 – 2020.02)_<br>
+**Undergraduate Research Program (11th CCP)**  _(2019.04 – 2020.02)_<br>
+*[CCP]: Creative Challenger Program
 - _Description_:
 - _Contribution(s)_: Developed novel algorithm for political stance classification of Internet news articles  
 - _Output_: [[video]](https://youtu.be/mPty8IovFVo)
@@ -62,14 +69,12 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 
 
 **K-Startup Challenge**  (_2019.06 – 2019.08_) [[code](https://github.com/hanjae-jea/fintech)]
-
 -   _Description:_  Stock Plantation: Robo-advisor Crowdfunding Platform
 -   _Contribution(s):_  Using LSTM and enhanced learning to learn AI stock investment algorithm / KB OPEN API
 -   _Skills Used:_  Python, Tensorflow, Javascript, HTML, CSS
 -   _Output:_  [Promising Start-up Team Award](https://wkddydpf.github.io/attaches/kstart.pdf)
 
 **Intel AI Drone Hackathon**  (_2018.11.08 – 2018.11.09_)
-
 -   _Description:_  Proposing and implementing service ideas utilizing drones using AI technology
 -   _Contribution(s):_  Drone-wifi Idea contribution. Implemented K-means clustering and mean shift algorithm using python.
 -   _Skills Used:_  Python, OpenCV
