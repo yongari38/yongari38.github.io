@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
+
 
 I am a passionate and enthusiactic person, I work well both as a team and on my own. I love to engage technical audiences to influence them with my research. I express empathy to Microsoft’s slogan, *“to empower every person and every organization on the planet to achieve more”*, since I belive the essence of engineering is to enfluence everyday lives of various people.<br>
 <br>
@@ -36,7 +36,7 @@ _Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 
 **Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_
 - _Description_: 부채널 공격으로 인한 클라우드 취약점 분석
-- _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks. -   Developed neural network stealing algorithm leveraging microarchitectural vulnerabilities
+- _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks, developed an algorithm to steal neural networks from deep learning services running in the cloud by leveraging microarchitectural vulnerabilities
 - _Output_: [video](https://), [paper](https://ieeexplore.ieee.org/abstract/document/9333926), [Cyber Security Paper Competition Grand Prize](https://http://yongari38.github.io/files/)
 
 **Lab Intern Project** _(2019.09 – 2019.12)_ 
