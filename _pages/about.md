@@ -14,21 +14,22 @@ I am currently in my final year of B.S. in Computer Science and Engineering at K
 
 ---
 ## Research Experiences
-<u>**[Information System Security Laboratory, Korea University](http://isslab.korea.ac.kr/)**</u> | advisor: Junbeom Hur
+**[Information System Security Laboratory, Korea University](http://isslab.korea.ac.kr/)** | advisor: Junbeom Hur<br>
 _Undergraduate Research Intern (March 2019 – Present)_<br>
 - Analyzed microarchitectural vulnerabilities of the CPU
 - Developed neural network stealing algorithm leveraging microarchitectural vulnerabilities
 
-<u>**2020 Undergraduate Research Program (12th Creative Challenger Program)**</u> | advisor: Prof. Junbeom Hur
+**2020 Undergraduate Research Program (12th Creative Challenger Program)** | advisor: Prof. Junbeom Hur<br>
 _Project Leader (April 2020 – February 2021)_<br>
 - Investigated potential public Cloud vulnerabilities caused by side-channel attacks  **[[video]](https://)**
-- 
-**<u>2019 Undergraduate Research Program (11th Creative Challenger Program)</u>**
-<u>**2019 Undergraduate Research Program (11th Creative Challenger Program)**</u> | advisor: Prof. Dongsuk Yook
+
+**<u>2019 Undergraduate Research Program (11th Creative Challenger Program)</u>**<br>
+
+**2019 Undergraduate Research Program (11th Creative Challenger Program)** | advisor: Prof. Dongsuk Yook<br>
 _Project Leader (April 2019 – February 2020)_<br>
 - Developed novel algorithm for political stance classification of Internet news articles  **[[video]](https://youtu.be/mPty8IovFVo)**
 
-<u>**[Artificial Intelligence Laboratory, Korea University](http://ai.korea.ac.kr/)**</u> | advisor: Prof. Dongsuk Yook
+**[Artificial Intelligence Laboratory, Korea University](http://ai.korea.ac.kr/)** | advisor: Prof. Dongsuk Yook<br>
 _Undergraduate Research Intern (December 2018 – February 2019)_<br>
 - Implemented model-parallel systems for extremely large deep neural networks
 
@@ -37,12 +38,12 @@ _Undergraduate Research Intern (December 2018 – February 2019)_<br>
 ## Publications
 **Neural Network Stealing via Meltdown**<br>
 <u>Hoyong Jeong</u>, Dohyun Ryu, Junbeom Hur<br>
-The 35th International Conference on Information Networking (ICOIN), p.36-38, 2021.1.
+The 35th International Conference on Information Networking (ICOIN), p.36-38, 2021.1.<br>
 [paper]
 
 **멜트다운 취약점을 이용한 인공신경망 추출 공격**<br>
 <u>정호용</u>, 류도현, 허준범<br>
-정보보호학회 논문지 30(6), p.1031-1041, 2020.12.
+정보보호학회 논문지 30(6), p.1031-1041, 2020.12.<br>
 [paper]
 
 ---
