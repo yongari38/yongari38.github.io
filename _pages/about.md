@@ -17,12 +17,12 @@ I am currently in my final year of B.S. in Computer Science and Engineering at K
 ---
 # Research Experiences
 **[Information System Security Laboratory](http://isslab.korea.ac.kr/), Korea University** | advisor: Junbeom Hur<br>
-_Undergraduate Research Intern (March 2019 – Present)_<br>
+_Undergraduate Research Intern (2019.03 – Present)_<br>
 - Analyzed microarchitectural vulnerabilities of the CPU
 - Developed neural network stealing algorithm leveraging microarchitectural vulnerabilities
 
 **[Artificial Intelligence Laboratory](http://ai.korea.ac.kr/), Korea University** | advisor: Prof. Dongsuk Yook<br>
-_Undergraduate Research Intern (December 2018 – February 2019)_<br>
+_Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 - Implemented model-parallel systems for extremely large deep neural networks
 <br>
 <br><br>
@@ -42,16 +42,19 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 <br><br>
 
 ---
+
+<hr style="border:2px solid blue"> </hr>
+
 # Projects & Accomplishments
 
 	
 
-**2020 Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_<br>
+**Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_<br>
 - _Description_: 
 - _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks
 - _Output_: [[video]](https://)
 
-**2019 Undergraduate Research Program (11th Creative Challenger Program)**  _(2019.04 – 2020.02)_<br>
+**Undergraduate Research Program (11th Creative Challenger Program)**  _(2019.04 – 2020.02)_<br>
 - _Description_:
 - _Contribution(s)_: Developed novel algorithm for political stance classification of Internet news articles  
 - _Output_: [[video]](https://youtu.be/mPty8IovFVo)
