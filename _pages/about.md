@@ -23,7 +23,7 @@ _Undergraduate Research Intern (March 2019 – Present)_<br>
 _Project Leader (April 2020 – February 2021)_<br>
 - Investigated potential public Cloud vulnerabilities caused by side-channel attacks  **[[video]](https://)**
 
-**<u>2019 Undergraduate Research Program (11th Creative Challenger Program)</u>**<br>
+<br>**<u>2019 Undergraduate Research Program (11th Creative Challenger Program)</u>**<br>
 
 **2019 Undergraduate Research Program (11th Creative Challenger Program)** | advisor: Prof. Dongsuk Yook<br>
 _Project Leader (April 2019 – February 2020)_<br>
