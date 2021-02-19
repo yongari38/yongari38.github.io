@@ -14,6 +14,7 @@ I am currently in my final year of B.S. in Computer Science and Engineering at K
 <br>
 <br><br>
 
+---
 # Research Experiences
 **[Information System Security Laboratory](http://isslab.korea.ac.kr/), Korea University** | advisor: Junbeom Hur<br>
 _Undergraduate Research Intern (March 2019 – Present)_<br>
@@ -26,6 +27,7 @@ _Undergraduate Research Intern (December 2018 – February 2019)_<br>
 <br>
 <br><br>
 
+---
 # Publications
 **Neural Network Stealing via Meltdown**<br>
 <u>Hoyong Jeong</u>, Dohyun Ryu, Junbeom Hur<br>
@@ -39,9 +41,10 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 <br>
 <br><br>
 
+---
 # Projects & Accomplishments
 
-
+	
 
 **2020 Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_<br>
 - _Description_: 
@@ -55,9 +58,9 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 
 
 
-**K-Startup Grand Challenge**  (_2019.06 – 2019.08_) [[code](https://github.com/hanjae-jea/fintech)]
+**K-Startup Challenge**  (_2019.06 – 2019.08_) [[code](https://github.com/hanjae-jea/fintech)]
 
--   _Description:_  Stock Plantation: Investment AI Crowdfunding Platform
+-   _Description:_  Stock Plantation: Robo-advisor Crowdfunding Platform
 -   _Contribution(s):_  Using LSTM and enhanced learning to learn AI stock investment algorithm / KB OPEN API
 -   _Skills Used:_  Python, Tensorflow, Javascript, HTML, CSS
 -   _Output:_  [Promising Start-up Team Award](https://wkddydpf.github.io/attaches/kstart.pdf)
