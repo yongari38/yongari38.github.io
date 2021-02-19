@@ -22,7 +22,8 @@ _Undergraduate Research Intern (March 2019 – Present)_<br>
 <u>**2020 Undergraduate Research Program (12th Creative Challenger Program)**</u> | advisor: Prof. Junbeom Hur
 _Project Leader (April 2020 – February 2021)_<br>
 - Investigated potential public Cloud vulnerabilities caused by side-channel attacks  **[[video]](https://)**
-
+- 
+**<u>2019 Undergraduate Research Program (11th Creative Challenger Program)</u>**
 <u>**2019 Undergraduate Research Program (11th Creative Challenger Program)**</u> | advisor: Prof. Dongsuk Yook
 _Project Leader (April 2019 – February 2020)_<br>
 - Developed novel algorithm for political stance classification of Internet news articles  **[[video]](https://youtu.be/mPty8IovFVo)**
