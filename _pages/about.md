@@ -37,7 +37,7 @@ _Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 **Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_
 - _Description_: 부채널 공격으로 인한 클라우드 취약점 분석
 - _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks, developed an algorithm to steal neural networks from deep learning services running in the cloud by leveraging microarchitectural vulnerabilities
-- _Output_: [video](https://), [paper](https://ieeexplore.ieee.org/abstract/document/9333926), [Cyber Security Paper Competition Grand Prize](https://http://yongari38.github.io/files/)
+- _Output_: [video](https://), [paper](https://ieeexplore.ieee.org/abstract/document/9333926), [Cyber Security Paper Competition Grand Prize](https://http://yongari38.github.io/files/사이버안보논문공모전_최우수상.jpg)
 
 **Lab Intern Project** _(2019.09 – 2019.12)_ 
 - _Desciption:_ Disclosing Neural Network Structure for Better Adversarial Attacks
