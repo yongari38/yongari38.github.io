@@ -16,6 +16,7 @@ I am currently in my final year of B.S. in Computer Science and Engineering at K
 
 ---
 # Research Experiences
+<br>
 **[Information System Security Laboratory](http://isslab.korea.ac.kr/), Korea University** | advisor: Junbeom Hur<br>
 _Undergraduate Research Intern (2019.03 – Present)_<br>
 - Analyzed microarchitectural vulnerabilities of the CPU
@@ -29,6 +30,7 @@ _Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 
 ---
 # Publications
+<br>
 **Neural Network Stealing via Meltdown**<br>
 <u>Hoyong Jeong</u>, Dohyun Ryu, Junbeom Hur<br>
 The 35th International Conference on Information Networking (ICOIN), p.36-38, 2021.1.<br>
@@ -46,7 +48,7 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 <hr style="border:4px solid black"> </hr>
 
 # Projects & Accomplishments
-
+<br>
 **Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_
 - _Description_: 부채널 공격으로 인한 클라우드 취약점 분석
 - _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks. -   Developed neural network stealing algorithm leveraging microarchitectural vulnerabilities
