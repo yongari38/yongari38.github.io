@@ -21,7 +21,7 @@ I am currently in my final year of B.S. in Computer Science and Engineering at K
 _Undergraduate Research Intern (2019.03 – Present)_<br>
 - Analyzed microarchitectural vulnerabilities of the CPU
 - Developed neural network stealing algorithm leveraging microarchitectural vulnerabilities
-
+<br>
 **[Artificial Intelligence Laboratory](http://ai.korea.ac.kr/), Korea University** | advisor: Prof. Dongsuk Yook<br>
 _Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 - Implemented model-parallel systems for extremely large deep neural networks
@@ -35,7 +35,7 @@ _Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 <u>Hoyong Jeong</u>, Dohyun Ryu, Junbeom Hur<br>
 The 35th International Conference on Information Networking (ICOIN), p.36-38, 2021.1.<br>
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9333926)
-
+<br>
 **멜트다운 취약점을 이용한 인공신경망 추출 공격**<br>
 <u>정호용</u>, 류도현, 허준범<br>
 정보보호학회 논문지 30(6), p.1031-1041, 2020.12.<br>
@@ -44,31 +44,28 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 <br><br>
 
 ---
-
-<hr style="border:4px solid black"> </hr>
-
 # Projects & Accomplishments
 <br>
 **Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_
 - _Description_: 부채널 공격으로 인한 클라우드 취약점 분석
 - _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks. -   Developed neural network stealing algorithm leveraging microarchitectural vulnerabilities
 - _Output_: [[video]](https://), [[paper]](https://ieeexplore.ieee.org/abstract/document/9333926)
-
+<br>
 **Lab Intern Project** _(2019.09 – 2019.12)_ 
 - _Desciption:_ Disclosing Neural Network Structure for Better Adversarial Attacks
 - _Contribution(s):_ Inferred neural network structure from side-channels to construct stronger adversarial attacks
 - _Output:_ [Final Report](http://yongari38.github.io/files/12월%20학부연구생(랩인턴)%20최종제출_정호용.pdf)
-
+<br>
 **K-Startup Challenge**  _(2019.06 – 2019.08)_
 -   _Description:_  Stock Plantation: Robo-advisor Crowdfunding Platform
 -   _Contribution(s):_  Idea proposal, implemented RL & LSTM-based AI for automated stock investment, applied NLP techniques to use news articles keywords for stock price prediction 
 -   _Output:_  [[server-side code]](https://github.com/hanjae-jea/fintech), [[robo-advisor code]](https://github.com/yongari38/Stock-Plantation), [Promising Start-up Team Award](https://wkddydpf.github.io/attaches/kstart.pdf)
-
+<br>
 **Undergraduate Research Program (11th Creative Challenger Program)**  _(2019.04 – 2020.02)_
 - _Description_: 다양한 관점의 뉴스 클러스터에서 객관적 정보 분리 및 논조 파악
 - _Contribution(s)_: Developed novel algorithm for political stance classification of Internet news articles  
 - _Output_: [[code]](https://github.com/Kim-mins/Creative-Challenger-Program), [[video]](https://youtu.be/mPty8IovFVo)
-
+<br>
 **Intel AI Drone Hackathon**  (_2018.11.08 – 2018.11.09_)
 -   _Description:_  Adaptive public WiFi using drones as Wireless Access Points
 -   _Contribution(s):_  Drone-wifi Idea contribution. Implemented K-means clustering and mean shift algorithm using python.
