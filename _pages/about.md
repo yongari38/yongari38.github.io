@@ -12,7 +12,7 @@ I am a passionate and enthusiactic person, I work well both as a team and on my 
 <br>
 I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at Information System Security Lab since 2019. My research interests include system security, microarchitectural attacks, side-channel attacks, and safe AI.
 <br>
-<br>
+<br><br>
 
 # Research Experiences
 **[Information System Security Laboratory](http://isslab.korea.ac.kr/), Korea University** | advisor: Junbeom Hur<br>
@@ -24,7 +24,7 @@ _Undergraduate Research Intern (March 2019 – Present)_<br>
 _Undergraduate Research Intern (December 2018 – February 2019)_<br>
 - Implemented model-parallel systems for extremely large deep neural networks
 <br>
-<br>
+<br><br>
 
 # Publications
 **Neural Network Stealing via Meltdown**<br>
@@ -37,7 +37,7 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 정보보호학회 논문지 30(6), p.1031-1041, 2020.12.<br>
 [[paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10510254)
 <br>
-<br>
+<br><br>
 
 # Projects & Accomplishments
 
