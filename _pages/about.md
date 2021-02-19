@@ -51,7 +51,7 @@ _Undergraduate Research Intern (2018.12 – 2019.02)_<br>
 
 **Undergraduate Research Program (11th Creative Challenger Program)**  _(2019.04 – 2020.02)_
 - _Description_: 다양한 관점의 뉴스 클러스터에서 객관적 정보 분리 및 논조 파악
-- _Contribution(s)_: Developed novel algorithm for political stance classification of Internet news articles  
+- _Contribution(s)_: Developed algorithm for political stance classification of Internet news articles  
 - _Output_: [code](https://github.com/Kim-mins/Creative-Challenger-Program), [video](https://youtu.be/mPty8IovFVo)
 
 **Intel AI Drone Hackathon**  (_2018.11.08 – 2018.11.09_)
