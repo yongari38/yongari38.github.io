@@ -10,7 +10,7 @@ redirect_from:
 
 I am a passionate and enthusiactic person, I work well both as a team and on my own. I love to engage technical audiences to influence them with my research. I express empathy to Microsoft’s slogan, *“to empower every person and every organization on the planet to achieve more”*, since I belive the essence of engineering is to enfluence everyday lives of various people.<br>
 <br>
-I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at Information System Security Lab since 2019. My research interests include system security, microarchitectural attacks, side-channel attacks, and safe AI.
+I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at Information System Security Lab since 2019. My research interests include cloud security, system security, microarchitectural attacks, side-channel attacks, and safe AI.
 <br>
 <br><br>
 
@@ -43,30 +43,26 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 
 ---
 
-<hr style="border:4px black"> </hr>
+<hr style="border:4px solid black"> </hr>
 
 # Projects & Accomplishments
 
-**Undergraduate Research Program (12th CCP)**  _(2020.04 – 2021.02)_
-*[CCP]: Creative Challenger Program
-- _Description_: 
+**Undergraduate Research Program (12th Creative Challenger Program)**  _(2020.04 – 2021.02)_
+- _Description_: 부채널 공격으로 인한 클라우드 취약점 분석
 - _Contribution(s)_: Investigated potential public Cloud vulnerabilities caused by side-channel attacks
 - _Output_: [[video]](https://)
 
-**Undergraduate Research Program (11th CCP)**  _(2019.04 – 2020.02)_
-*[CCP]: Creative Challenger Program
-- _Description_:
+**Undergraduate Research Program (11th Creative Challenger Program)**  _(2019.04 – 2020.02)_
+- _Description_: 다양한 관점의 뉴스 클러스터에서 객관적 정보 분리 및 논조 파악
 - _Contribution(s)_: Developed novel algorithm for political stance classification of Internet news articles  
-- _Output_: [[video]](https://youtu.be/mPty8IovFVo)
+- _Output_: [[code]](https://github.com/Kim-mins/Creative-Challenger-Program), [[video]](https://youtu.be/mPty8IovFVo)
 
 **K-Startup Challenge**  (_2019.06 – 2019.08_)
 -   _Description:_  Stock Plantation: Robo-advisor Crowdfunding Platform
--   _Contribution(s):_  Idea proposal, implemented RL & LSTM-based AI for automated stock investment, applied NLP techniques to use news articles keywords for stock price prediction
-*[RL]: Reinforcement Learning
-*[LSTM]: Long Short-Term Memory
+-   _Contribution(s):_  Idea proposal, implemented RL & LSTM-based AI for automated stock investment, applied NLP techniques to use news articles keywords for stock price prediction 
 -   _Output:_  [[server-side code]](https://github.com/hanjae-jea/fintech), [[robo-advisor code]](https://github.com/yongari38/Stock-Plantation), [Promising Start-up Team Award](https://wkddydpf.github.io/attaches/kstart.pdf)
 
 **Intel AI Drone Hackathon**  (_2018.11.08 – 2018.11.09_)
--   _Description:_  Proposing and implementing service ideas utilizing drones using AI technology
+-   _Description:_  Adaptive public WiFi using drones as Wireless Access Points
 -   _Contribution(s):_  Drone-wifi Idea contribution. Implemented K-means clustering and mean shift algorithm using python.
 -   _Output:_  [Best Innovation Award](https://wkddydpf.github.io/attaches/intel.pdf)
