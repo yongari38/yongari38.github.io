@@ -13,7 +13,8 @@ I am a passionate and enthusiactic person, I work well both as a team and on my 
 I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at Information System Security Lab since 2019. My research interests include system security, microarchitectural attacks, side-channel attacks, and safe AI.
 <br>
 <br>
-## Research Experiences
+
+# Research Experiences
 **[Information System Security Laboratory](http://isslab.korea.ac.kr/), Korea University** | advisor: Junbeom Hur<br>
 _Undergraduate Research Intern (March 2019 – Present)_<br>
 - Analyzed microarchitectural vulnerabilities of the CPU
@@ -24,7 +25,8 @@ _Undergraduate Research Intern (December 2018 – February 2019)_<br>
 - Implemented model-parallel systems for extremely large deep neural networks
 <br>
 <br>
-## Publications
+
+# Publications
 **Neural Network Stealing via Meltdown**<br>
 <u>Hoyong Jeong</u>, Dohyun Ryu, Junbeom Hur<br>
 The 35th International Conference on Information Networking (ICOIN), p.36-38, 2021.1.<br>
@@ -36,7 +38,8 @@ The 35th International Conference on Information Networking (ICOIN), p.36-38, 20
 [[paper]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10510254)
 <br>
 <br>
-## Projects & Accomplishments
+
+# Projects & Accomplishments
 Intel AI Drone 
 
 
