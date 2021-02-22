@@ -14,8 +14,8 @@ I am a passionate and enthusiastic person, I work well both as a team and on my 
 I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at Information System Security Lab since 2019. My research interests include cloud security, system security, microarchitectural attacks, side-channel attacks, and safe AI.
 
 
- I have been working as a research intern at ISS Lab since 2019. 
-*[ISS Lab]: Information System Security Laboratory
+ I have been working as a research intern at ISSLab since 2019. 
+*[ISSLab]: Information System Security Laboratory
 <br>
 <br><br>
 
