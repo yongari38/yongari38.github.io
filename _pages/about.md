@@ -11,17 +11,9 @@ redirect_from:
 
 I am a passionate and enthusiastic person, I work well both as a team and on my own. I love to engage technical audiences to influence them with my research. I express empathy to Microsoft’s slogan, *“to empower every person and every organization on the planet to achieve more”*, since I belive the essence of engineering is to enfluence everyday lives of various people.<br>
 <br>
-I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at Information System Security Lab since 2019. My research interests include cloud security, system security, microarchitectural attacks, side-channel attacks, and safe AI.
-
-
- I have been working as a research intern at ISS Lab since 2019. 
+I am currently in my final year of B.S. in Computer Science and Engineering at Korea University. I have been working as a research intern at ISS Lab since 2019. My research interests include cloud security, system security, microarchitectural attacks, side-channel attacks, and safe AI.
  
 *[ISS Lab]: Information System Security Laboratory
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
 
 <br>
 <br><br>
