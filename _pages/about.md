@@ -15,7 +15,13 @@ I am currently in my final year of B.S. in Computer Science and Engineering at K
 
 
  I have been working as a research intern at ISS Lab since 2019. 
+ 
 *[ISS Lab]: Information System Security Laboratory
+
+The abbreviation CSS stands for "Cascading Style Sheets".
+
+*[CSS]: Cascading Style Sheets
+
 
 <br>
 <br><br>
